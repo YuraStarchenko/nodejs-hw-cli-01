@@ -3,6 +3,10 @@
  * const contactsPath = ;
  */
 
+const contactsPath = require('./db');
+
+console.log(db);
+
 // TODO: задокументувати кожну функцію
 function listContacts() {
   // ...твій код
